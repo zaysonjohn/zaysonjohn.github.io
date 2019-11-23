@@ -36,5 +36,3 @@ this is my website: "this is not reddit"
 
 
 
-
-pauly paul
