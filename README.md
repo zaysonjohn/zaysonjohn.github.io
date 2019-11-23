@@ -1,6 +1,6 @@
 # zaysonjohn.github.io
 
-hi im paul
+this is my website: "this is not reddit"
 
 
 
